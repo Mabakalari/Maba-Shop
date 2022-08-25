@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "node .",
+    "start": "node",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "MABA KALARI᛫ ƉɆV̸ɨⱠ#8169",
   "license": "ISC",
   "dependencies": {
     "discord.js": "^13.6.0",
