@@ -46,7 +46,7 @@ client.user.setPresence({ activities: [{ name: `${prefix}help`}], status: 'onlin
 client.on('guildCreate', guild => {
   if (guild.id !== sv) return guild.leave()
 })
-client.login("");
+client.login("MTAxMjM0MDI0NjgxMTI1NDc4NA.G5YM67.Sb2FKaiqQj5LV5WDUlHP_PKMWRnciFAcQk4LlY");
 
 client.on("message", async message => {
 
