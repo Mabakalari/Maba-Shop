@@ -1,1 +1,1 @@
-Worker: maba.js
+worker: node maba.js
